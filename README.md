@@ -1,1 +1,1 @@
-# merle.postal.github.io
+# merle.postal
